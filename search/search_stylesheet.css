@@ -1,0 +1,20 @@
+#top_bar {
+  text-align: right;
+}
+
+#search_bar {
+	text-align: center;
+}
+
+
+#main_search {
+	height: 30px;
+	width: 50%;
+	border: 2px solid;
+	border-radius: 20px;
+}
+
+#advanced_search_button{
+	color: white;
+	background-color: DodgerBlue;
+}
